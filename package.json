@@ -1,0 +1,15 @@
+{
+    "name": "angular-spinner",
+    "version": "1.0.0",
+    "description": "Angular directive to show an animated spinner (using [spin.js](http://fgnass.github.io/spin.js/))",
+    "main": "angular-spinner.js",
+    "scripts": {
+        "test": "exit 0"
+    },
+    "dependencies": {
+        "spin.js": "^2.0.0",
+        "angular": "~1.x"
+    },
+    "author": "",
+    "license": "MIT"
+}
